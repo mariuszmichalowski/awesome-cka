@@ -143,6 +143,8 @@ This following here is great for a testing scenario. It gives you 24 questions t
 In case you yearn for more information about the exam and it's topics, here is another brilliant list of curated resoures that you will find handy.
 
 - [ ] Read **CKA Resources** - [https://gist.github.com/strongjz/4c9ad30a12ab715ae94cf72d0e7bbc30](https://gist.github.com/strongjz/4c9ad30a12ab715ae94cf72d0e7bbc30)
+- [ ] Read **Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects** - [https://spacelift.io/blog/kubernetes-cheat-sheet](https://spacelift.io/blog/kubernetes-cheat-sheet)
+- [ ] Read **15 Kubernetes Best Practices Every Developer Should Know** - [https://spacelift.io/blog/kubernetes-best-practices](https://spacelift.io/blog/kubernetes-best-practices)
 
 ----
 
